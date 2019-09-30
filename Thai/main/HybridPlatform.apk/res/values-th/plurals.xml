@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">อนุญาต %d สิทธิ์</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">ถามเพื่อ %d การอนุญาต</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">จำกัดการแจ้งเตือนสำหรับ %d แอปด่วน</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">อนุญาตการแจ้งเตือนสำหรับ %d แอปด่วน</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d การอนุญาต</item>
+    </plurals>
+</resources>

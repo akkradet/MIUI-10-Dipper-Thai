@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>สำหรับการระบุรายการที่ซิงค์</item>
+        <item>สำหรับการซิงค์ข้อความ</item>
+        <item>สำหรับการซิงค์รายชื่อ</item>
+        <item>สำหรับการซิงค์กิจกรรมปฏิทิน</item>
+        <item>สำหรับการซิงค์รายการด้วยบริการที่ใช้พื้นที่เก็บข้อมูล</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>โทรศัพท์</item>
+        <item>ข้อความ SMS</item>
+        <item>รายชื่อ</item>
+        <item>ปฏิทิน</item>
+        <item>ที่จัดเก็บข้อมูล</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ซิงค์ข้อมูลแอป</item>
+        <item>สำรองข้อมูลการจัดวางหน้าจอหลัก</item>
+        <item>สำรองข้อมูลการตั้งค่าระบบ</item>
+        <item>ค้นหาอุปกรณ์</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>ซิงค์รายชื่อ ข้อความ บันทึก ปฏิทิน และอื่นๆของคุณ</item>
+        <item>สำรองข้อมูลแอป การจัดเรียงหน้าจอหลัก และภาพพื้นหลัง</item>
+        <item>สำรองข้อมูลการตั้งค่าที่สำคัญ รวมไปถึง Wi-Fi และการแสดงผล</item>
+        <item>ล็อกอุปกรณ์จากระยะไกลหากอุปกรณ์สูญหาย</item>
+    </string-array>
+</resources>
